@@ -3,6 +3,7 @@
 **A simple and lightweight system status monitoring tool.**
 
 **Installation:**
+
 ***Clone the repo***
 ```bash
   git clone [https://github.com/badreddinkaztaou/ft_bar](https://github.com/badreddinkaztaoui/ft_bar)
