@@ -12,7 +12,7 @@
 
 ***Update your .xinitrc file to run the code when dwn runs***
 ```bash
-  // add this line to you .xinitrc file
+  // add this line to your .xinitrc file
   ft_bar &
 ```
 
