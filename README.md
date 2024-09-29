@@ -1,19 +1,19 @@
-# ft_bar
+# fq_bar
 
 **A simple and lightweight system status monitoring tool.**
 
 **Installation:**
 ```bash
-  git clone https://github.com/badreddinkaztaoui/ft_bar
-  cd ft_bar
-  cc -Wall -Wextra -Werror -o ft_bar ft_bar.c -lX11 -lXrandr
-  mv ft_bar /usr/local/bin/
+  git clone https://github.com/badreddinkaztaoui/fq_bar
+  cd fq_bar
+  cc -Wall -Wextra -Werror -o fq_bar fq_bar.c -lX11 -lXrandr
+  mv fq_bar /usr/local/bin/
 ```
 
 ***Update your .xinitrc file to run the code when dwn runs***
 ```bash
   // add this line to your .xinitrc file
-  ft_bar &
+  fq_bar &
 ```
 
 **Example output:**
